@@ -17,6 +17,7 @@
   "homepage": "https://github.com/gelusb/Cypress-Automation-Project#readme",
   "description": "",
   "dependencies": {
-    "cypress": "^13.12.0"
+    "cypress": "^13.12.0",
+    "typescript": "^5.5.2"
   }
 }
